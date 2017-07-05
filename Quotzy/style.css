@@ -1,0 +1,55 @@
+#tweetButton{
+	float: right;
+	background-color: #2CAAE1;
+	color: white;
+}
+
+body{
+	background-color: #1E88E5;
+	border: 20px;
+	border-image-source: url(http://clipartwork.com/wp-content/uploads/2017/02/sun-cloud-clipart-free.png);
+	
+}
+
+header{
+	font-family: "Droid Sans", sans-serif;
+	font-size: 40px;
+	color: white;
+	background-color: #0D47A1;
+	margin-top: -40px;
+	margin-left: -110px;
+	margin-right: -110px;
+}
+
+blockquote{
+	border-right: none;
+}
+
+
+
+.page-header{
+	border-bottom: none;
+}
+
+.jumbotron{
+	background-color: #BBDEFB;
+}
+
+#theQuote{
+	font-style: italic;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 40px;
+}
+
+#buttonRow{
+	margin: 5px, 10px;
+}
+
+.author{
+	font-style: italic;
+}
+
+#nextButton{
+	/*background-color: #1565C0;*/
+	background-color: #00796B;
+}
